@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+My awsome atributte are **Perseverance**, **Analityc mind**, **Depression** and my programming skills are *Python*, *Java*, *C*, *SQL* and *POO*. 
